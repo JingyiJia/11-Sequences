@@ -5,7 +5,7 @@ This module demonstrates INDEXING into a SEQUENCE:
   -- What goes wrong if the index is out of range
 
 Authors: David Mutchler, Vibha Alangar, Matt Boutell, Dave Fisher,
-         Mark Hays, Amanda Stouder, Aaron Wilkin, and their colleagues.
+         Mark Hays, Amanda Stouder, Aaron Wilkin, and Jingyi. Jia.
 """
 ###############################################################################
 # Students: Read and run this program.  There is nothing else
