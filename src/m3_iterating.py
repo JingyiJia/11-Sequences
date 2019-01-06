@@ -83,7 +83,7 @@ def run_test_count_negatives():
     print('       actual:  ', actual)
 
     # -------------------------------------------------------------------------
-    # TODO 2 (continued):  Add your 2 ADDITIONAL tests here:
+    # DONE 2 (continued):  Add your 2 ADDITIONAL tests here:
     # -------------------------------------------------------------------------
     # Test 6:
     expected = 2
